@@ -1,7 +1,8 @@
 <h1 align="center">HOLA! soy Fatima Jimnénez Bazán</h1>
-<h3 align="center">Estudiante de Ingenieria en Tecnbologías de la Información</h3>
+<h3 align="center">Estudiante de Ingenieria en Tecnologías de la Información</h3>
 
-- 🌱 Actualmente me encuenro tomando cursos **AWS, Gestión de proyectos y Huawei en la nube.**
+- 🌱 Actualmente me encuentro tomando cursos de **AWS, Gestión de proyectos y Huawei en la nube.**
+- 🌱 Estoy muy interesada en el **Desarrollo web, principalmente en Fronend.**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="izquierda">
