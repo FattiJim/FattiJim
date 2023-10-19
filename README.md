@@ -1,4 +1,4 @@
-<h1 align="center">HOLA! soy Fatima Jimnénez Bazán</h1>
+<h1 align="center">HOLA! soy Fatima Jiménez Bazán</h1>
 <h3 align="center">Estudiante de Ingenieria en Tecnologías de la Información</h3>
 
 - 🌱 Actualmente me encuentro tomando cursos de **AWS, Gestión de proyectos y Huawei en la nube.**
